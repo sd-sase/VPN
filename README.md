@@ -1,6 +1,6 @@
 # VPN
 零信任安全专用网络ZTNA VPN一站式解决方案
-![image](https://github.com/sd-sase/VPN/assets/40165707/db9c8db2-1dc4-4a0d-a047-a54ee508f548)
+![image](https://github.com/sd-sase/VPN/assets/40165707/f665f249-d0fa-4f8a-b8ef-98665a35bb4e)
 海禛云算力网络优势
 
 1、一站式支持X86芯片平台、ARM 芯片架构平台
